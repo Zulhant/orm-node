@@ -1,0 +1,2 @@
+exports.screetKey = 'djdjjdjikjdfjdsfjsdf%%%46364'
+exports.noImage = "https://firebasestorage.googleapis.com/v0/b/my-project-d94ae.appspot.com/o/no-image.png?alt=media&token=afad379a-359e-4fdb-a168-c9ddff13188c"
