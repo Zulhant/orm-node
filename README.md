@@ -1,7 +1,7 @@
 # patern nodejs for orm sequilize
 this my patern for everyone to use 
 
-#step instalation
+# step instalation
 - clone repo
 - install nodejs
 - install mysql
